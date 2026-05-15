@@ -1,0 +1,16 @@
+# 私人数据（如果有）
+99-private/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.swp
+*~
